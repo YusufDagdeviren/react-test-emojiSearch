@@ -14,7 +14,7 @@ I've written test code for an already running app in the sample project shared i
 ### Test Results
 ![Test](/photos/photo2.png)
 # TR
-React'ın kendi dokümanlarında paylaşılan örnek projerde bulunan ve halihazırda çalışan bir uygulamanın test kodunu yazdım
+React'ın kendi dokümanlarında paylaşılan örnek projelerde bulunan ve halihazırda çalışan bir uygulamanın test kodunu yazdım
 [Proje Linki](https://tr.reactjs.org/community/examples.html)
 [Orjinal Github Proje Linki](https://github.com/ahfarmer/emoji-search)
 ## Gereksinimler
