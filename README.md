@@ -1,5 +1,5 @@
 ![EmojiSearch](/photos/photo1.png)
-### En
+# En
 I've written test code for an already running app in the sample project shared in React's own docs.
 [Project Link](https://tr.reactjs.org/community/examples.html)
 [Original Github Project Link](https://github.com/ahfarmer/emoji-search)
@@ -11,7 +11,9 @@ I've written test code for an already running app in the sample project shared i
 - When clicking any emoji on the list, write the test code that will check that the relevant emoji is copied.
 ### `npm install` to install dependencies
 ### `npm start` to run
-### TR
+### Test Results
+![Test](/photos/photo2.png)
+# TR
 React'ın kendi dokümanlarında paylaşılan örnek projerde bulunan ve halihazırda çalışan bir uygulamanın test kodunu yazdım
 [Proje Linki](https://tr.reactjs.org/community/examples.html)
 [Orjinal Github Proje Linki](https://github.com/ahfarmer/emoji-search)
@@ -23,4 +25,6 @@ React'ın kendi dokümanlarında paylaşılan örnek projerde bulunan ve halihaz
 - Liste üzerinden herhangi emojiye tıklandığında, ilgili emojinin kopyalandığını kontrol edecek olan test kodunu yazın.
 ### Bağımlılıkları yüklemek için `npm install`
 ### Çalıştırmak için `npm start`
+### Test Sonuçları
+![Test](/photos/photo2.png)
 
