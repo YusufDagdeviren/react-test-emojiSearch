@@ -2,6 +2,7 @@
 ### En
 I've written test code for an already running app in the sample project shared in React's own docs.
 [Project Link](https://tr.reactjs.org/community/examples.html)
+[Original Github Project Link](https://github.com/ahfarmer/emoji-search)
 ## Requirements
 ---
 - Write the test code that will check if the header is rendered successfully.
@@ -13,6 +14,7 @@ I've written test code for an already running app in the sample project shared i
 ### TR
 React'ın kendi dokümanlarında paylaşılan örnek projerde bulunan ve halihazırda çalışan bir uygulamanın test kodunu yazdım
 [Proje Linki](https://tr.reactjs.org/community/examples.html)
+[Orjinal Github Proje Linki](https://github.com/ahfarmer/emoji-search)
 ## Gereksinimler
 ---
 - Başlık kısmının başarılı bir şekilde render edildiğini kontrol edecek olan test kodunu yazın.
