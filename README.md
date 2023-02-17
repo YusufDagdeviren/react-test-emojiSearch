@@ -1,18 +1,21 @@
-Emoji Search
+![EmojiSearch](/photos/photo1.png)
+### En
+I've written test code for an already running app in the sample project shared in React's own docs.
+[Project Link](https://tr.reactjs.org/community/examples.html)
+## Requirements
 ---
-
-Created with *create-react-app*. See the [full create-react-app guide](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
-
-
-
-Install
+- Write the test code that will check if the header is rendered successfully.
+- Write the test code that will check if the emoji list is rendered successfully when the app is first opened.
+- Write test code that will check that when a filter is done, the emoji list is re-rendered according to that filter.
+- When clicking any emoji on the list, write the test code that will check that the relevant emoji is copied.
+### TR
+React'ın kendi dokümanlarında paylaşılan örnek projerde bulunan ve halihazırda çalışan bir uygulamanın test kodunu yazdım
+[Proje Linki](https://tr.reactjs.org/community/examples.html)
+## Gereksinimler
 ---
+- Başlık kısmının başarılı bir şekilde render edildiğini kontrol edecek olan test kodunu yazın.
+- Uygulama ilk açıldığında emoji listesinin başarılı bir şekilde render edildiğini kontrol edecek olan test kodunu yazın.
+- Bir filtreleme işlemi yapıldığında, emoji listesinin bu filtreye uygun şekilde yeniden render edildiğini kontrol edecek olan test kodunu yazın.
+- Liste üzerinden herhangi emojiye tıklandığında, ilgili emojinin kopyalandığını kontrol edecek olan test kodunu yazın.
 
-`npm install`
 
-
-
-Usage
----
-
-`npm start`
